@@ -48,6 +48,7 @@ title('Frequency Response of FIR LPF using Hanning Window');
 # OUTPUT![WhatsApp Image 2025-10-13 at 16 17 25_36b09f46](https://github.com/user-attachments/assets/7f746fc8-937b-4b0e-9b0d-9d327377bf39)
 
 
-# RESULTTo generate design of high pass FIR digital filter using SCILAB is verified
+# RESULT
+To generate design of high pass FIR digital filter using SCILAB is verified
 
 
